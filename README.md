@@ -1,2 +1,3 @@
-# Testt
-aaaa only test
+Version = 'Alpha'
+
+Announcement = 'Thx for Use the Script'
